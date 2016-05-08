@@ -25,8 +25,8 @@ public class TestController {
 	private final String bucketName = "yomikoyomi";
 	private final String filePath = "imgs/";
 	private final String fileName = "test.png";
-	private final String accessKey = "abc";
-	private final String secretKey = "def";
+	private final String accessKey = "aaa";
+	private final String secretKey = "bbb";
 	
 	
 	
